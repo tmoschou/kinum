@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Kinum
+
+X-KDE-ServiceTypes=Plasma/DataEngine
+Type=Service
+Icon=kinum
+X-KDE-Library=plasma_engine_kinum
+
+X-KDE-PluginInfo-Author=Terry Moschou
+X-KDE-PluginInfo-Email=tmoschou@gmail.com
+X-KDE-PluginInfo-Name=kinum
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://kde.org
+X-KDE-PluginInfo-Category=Network
+X-KDE-PluginInfo-Depends=
