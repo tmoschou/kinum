@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Internode Kinum DSB
+Name[x-test]=xxInternode Kinum DSB (DSB)xx
+Comment=Internode Customer Webtools v1.5
+Comment[x-test]=xxInternode Customer Webtools v1.5xx
+
+X-KDE-ServiceTypes=Plasma/DataEngine
+Type=Service
+Icon=internode
+X-KDE-Library=kinum_dsb_internode
+X-KDE-PluginInfo-Name=Internode
+X-KDE-ParentApp=kinumengine

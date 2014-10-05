@@ -1,0 +1,28 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kinum
+Name[en_GB]=Kinum
+Name[x-test]=xxKinumxx
+Comment=KDE Internet Usage Meter
+Comment[en_GB]=KDE Internet Usage Meter
+Comment[x-test]=xxKDE Internet Usage Meterxx
+
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet,Plasma/PopupApplet
+
+X-KDE-Library=plasma_applet_kinum
+X-KDE-PluginInfo-Author=Terry Moschou
+X-KDE-PluginInfo-Email=tmoschou@gmail.com
+X-KDE-PluginInfo-Name=org.github.tmoschou.kinum
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/tmoschou/kinum
+X-KDE-PluginInfo-Category=Online Services
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-Requires-FileDialog=Unused
+X-Plasma-Requires-LaunchApp=Unused
+X-Plasma-DefaultSize=200,300

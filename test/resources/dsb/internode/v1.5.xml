@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internode>
+  <api>
+    <services count="1">
+      <service type="Personal_ADSL" href="/api/v1.5/123456">123456</service>
+    </services>
+  </api>
+</internode>

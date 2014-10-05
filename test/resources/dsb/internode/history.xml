@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internode>
+  <api>
+    <service type="Personal_ADSL" request="history">123456</service>
+    <usagelist>
+      <usage day="2013-07-09">
+        <traffic name="total" unit="bytes">538513733</traffic>
+      </usage>
+      <usage day="2013-07-10">
+        <traffic name="total" unit="bytes">1320590367</traffic>
+      </usage>
+      <usage day="2013-07-11">
+        <traffic name="total" unit="bytes">3143221357</traffic>
+      </usage>
+      <usage day="2013-07-12">
+        <traffic name="total" unit="bytes">1687280911</traffic>
+      </usage>
+      <usage day="2013-07-13">
+        <traffic name="total" unit="bytes">6989537556</traffic>
+      </usage>
+      <usage day="2013-07-14">
+        <traffic name="total" unit="bytes">4106178183</traffic>
+      </usage>
+      <usage day="2013-07-15">
+        <traffic name="total" unit="bytes">11066509398</traffic>
+      </usage>
+      <usage day="2013-07-16">
+        <traffic name="total" unit="bytes">2177515319</traffic>
+      </usage>
+      <usage day="2013-07-17">
+        <traffic name="total" unit="bytes">1763114088</traffic>
+      </usage>
+      <usage day="2013-07-18">
+        <traffic name="total" unit="bytes">2967788367</traffic>
+      </usage>
+      <usage day="2013-07-19">
+        <traffic name="total" unit="bytes">1053135055</traffic>
+      </usage>
+      <usage day="2013-07-20">
+        <traffic name="total" unit="bytes">2299234808</traffic>
+      </usage>
+      <usage day="2013-07-21">
+        <traffic name="total" unit="bytes">1934087784</traffic>
+      </usage>
+      <usage day="2013-07-22">
+        <traffic name="total" unit="bytes">1155250037</traffic>
+      </usage>
+      <usage day="2013-07-23">
+        <traffic name="total" unit="bytes">1969174000</traffic>
+      </usage>
+      <usage day="2013-07-24">
+        <traffic name="total" unit="bytes">3159096664</traffic>
+      </usage>
+      <usage day="2013-07-25">
+        <traffic name="total" unit="bytes">3221445246</traffic>
+      </usage>
+      <usage day="2013-07-26">
+        <traffic name="total" unit="bytes">3238385850</traffic>
+      </usage>
+      <usage day="2013-07-27">
+        <traffic name="total" unit="bytes">870893500</traffic>
+      </usage>
+      <usage day="2013-07-28">
+        <traffic name="total" unit="bytes">2084452664</traffic>
+      </usage>
+      <usage day="2013-07-29">
+        <traffic name="total" unit="bytes">666108553</traffic>
+      </usage>
+      <usage day="2013-07-30">
+        <traffic name="total" unit="bytes">1661453292</traffic>
+      </usage>
+      <usage day="2013-07-31">
+        <traffic name="total" unit="bytes">590279123</traffic>
+      </usage>
+      <usage day="2013-08-01">
+        <traffic name="total" unit="bytes">1108045359</traffic>
+      </usage>
+      <usage day="2013-08-02">
+        <traffic name="total" unit="bytes">2630079453</traffic>
+      </usage>
+      <usage day="2013-08-03">
+        <traffic name="total" unit="bytes">1852342940</traffic>
+      </usage>
+      <usage day="2013-08-04">
+        <traffic name="total" unit="bytes">3684112065</traffic>
+      </usage>
+      <usage day="2013-08-05">
+        <traffic name="total" unit="bytes">515743561</traffic>
+      </usage>
+      <usage day="2013-08-06">
+        <traffic name="total" unit="bytes">444858018</traffic>
+      </usage>
+      <usage day="2013-08-07">
+        <traffic name="total" unit="bytes">1693863729</traffic>
+      </usage>
+      <usage day="2013-08-08">
+        <traffic name="total" unit="bytes">1176830990</traffic>
+      </usage>
+      <usage day="2013-08-09">
+        <traffic name="total" unit="bytes">1662679558</traffic>
+      </usage>
+      <usage day="2013-08-10">
+        <traffic name="total" unit="bytes">10459999681</traffic>
+      </usage>
+      <usage day="2013-08-11">
+        <traffic name="total" unit="bytes">1832713744</traffic>
+      </usage>
+      <usage day="2013-08-12">
+        <traffic name="total" unit="bytes">2126630818</traffic>
+      </usage>
+      <usage day="2013-08-13">
+        <traffic name="total" unit="bytes">2549109182</traffic>
+      </usage>
+      <usage day="2013-08-14">
+        <traffic name="total" unit="bytes">2338796716</traffic>
+      </usage>
+      <usage day="2013-08-15">
+        <traffic name="total" unit="bytes">908822449</traffic>
+      </usage>
+      <usage day="2013-08-16">
+        <traffic name="total" unit="bytes">2162685049</traffic>
+      </usage>
+      <usage day="2013-08-17">
+        <traffic name="total" unit="bytes">979909089</traffic>
+      </usage>
+      <usage day="2013-08-18">
+        <traffic name="total" unit="bytes">743582265</traffic>
+      </usage>
+      <usage day="2013-08-19">
+        <traffic name="total" unit="bytes">2053792054</traffic>
+      </usage>
+      <usage day="2013-08-20">
+        <traffic name="total" unit="bytes">3179626130</traffic>
+      </usage>
+      <usage day="2013-08-21">
+        <traffic name="total" unit="bytes">1883409921</traffic>
+      </usage>
+      <usage day="2013-08-22">
+        <traffic name="total" unit="bytes">521392861</traffic>
+      </usage>
+      <usage day="2013-08-23">
+        <traffic name="total" unit="bytes">1117796589</traffic>
+      </usage>
+      <usage day="2013-08-24">
+        <traffic name="total" unit="bytes">2528377582</traffic>
+      </usage>
+      <usage day="2013-08-25">
+        <traffic name="total" unit="bytes">4375323666</traffic>
+      </usage>
+      <usage day="2013-08-26">
+        <traffic name="total" unit="bytes">879456234</traffic>
+      </usage>
+      <usage day="2013-08-27">
+        <traffic name="total" unit="bytes">986070317</traffic>
+      </usage>
+      <usage day="2013-08-28">
+        <traffic name="total" unit="bytes">891983670</traffic>
+      </usage>
+      <usage day="2013-08-29">
+        <traffic name="total" unit="bytes">2385635628</traffic>
+      </usage>
+      <usage day="2013-08-30">
+        <traffic name="total" unit="bytes">509791196</traffic>
+      </usage>
+      <usage day="2013-08-31">
+        <traffic name="total" unit="bytes">2322315139</traffic>
+      </usage>
+      <usage day="2013-09-01">
+        <traffic name="total" unit="bytes">5050461384</traffic>
+      </usage>
+      <usage day="2013-09-02">
+        <traffic name="total" unit="bytes">1942892007</traffic>
+      </usage>
+      <usage day="2013-09-03">
+        <traffic name="total" unit="bytes">672963055</traffic>
+      </usage>
+      <usage day="2013-09-04">
+        <traffic name="total" unit="bytes">1144290411</traffic>
+      </usage>
+      <usage day="2013-09-05">
+        <traffic name="total" unit="bytes">597951421</traffic>
+      </usage>
+      <usage day="2013-09-06">
+        <traffic name="total" unit="bytes">1335434555</traffic>
+      </usage>
+      <usage day="2013-09-07">
+        <traffic name="total" unit="bytes">767994620</traffic>
+      </usage>
+      <usage day="2013-09-08">
+        <traffic name="total" unit="bytes">2513456638</traffic>
+      </usage>
+      <usage day="2013-09-09">
+        <traffic name="total" unit="bytes">2493504750</traffic>
+      </usage>
+      <usage day="2013-09-10">
+        <traffic name="total" unit="bytes">522006798</traffic>
+      </usage>
+      <usage day="2013-09-11">
+        <traffic name="total" unit="bytes">4613231232</traffic>
+      </usage>
+      <usage day="2013-09-12">
+        <traffic name="total" unit="bytes">837223265</traffic>
+      </usage>
+      <usage day="2013-09-13">
+        <traffic name="total" unit="bytes">829778074</traffic>
+      </usage>
+      <usage day="2013-09-14">
+        <traffic name="total" unit="bytes">5000559823</traffic>
+      </usage>
+      <usage day="2013-09-15">
+        <traffic name="total" unit="bytes">4502315413</traffic>
+      </usage>
+      <usage day="2013-09-16">
+        <traffic name="total" unit="bytes">3719735416</traffic>
+      </usage>
+      <usage day="2013-09-17">
+        <traffic name="total" unit="bytes">4583447735</traffic>
+      </usage>
+      <usage day="2013-09-18">
+        <traffic name="total" unit="bytes">5799586578</traffic>
+      </usage>
+      <usage day="2013-09-19">
+        <traffic name="total" unit="bytes">445378558</traffic>
+      </usage>
+      <usage day="2013-09-20">
+        <traffic name="total" unit="bytes">215807284</traffic>
+      </usage>
+      <usage day="2013-09-21">
+        <traffic name="total" unit="bytes">14738728</traffic>
+      </usage>
+      <usage day="2013-09-22">
+        <traffic name="total" unit="bytes">2095460450</traffic>
+      </usage>
+      <usage day="2013-09-23">
+        <traffic name="total" unit="bytes">917299216</traffic>
+      </usage>
+      <usage day="2013-09-24">
+        <traffic name="total" unit="bytes">3373792770</traffic>
+      </usage>
+      <usage day="2013-09-25">
+        <traffic name="total" unit="bytes">1182696710</traffic>
+      </usage>
+      <usage day="2013-09-26">
+        <traffic name="total" unit="bytes">615502033</traffic>
+      </usage>
+      <usage day="2013-09-27">
+        <traffic name="total" unit="bytes">388096429</traffic>
+      </usage>
+      <usage day="2013-09-28">
+        <traffic name="total" unit="bytes">3274578311</traffic>
+      </usage>
+      <usage day="2013-09-29">
+        <traffic name="total" unit="bytes">4463634100</traffic>
+      </usage>
+      <usage day="2013-09-30">
+        <traffic name="total" unit="bytes">801765196</traffic>
+      </usage>
+      <usage day="2013-10-01">
+        <traffic name="total" unit="bytes">1056020663</traffic>
+      </usage>
+      <usage day="2013-10-02">
+        <traffic name="total" unit="bytes">857233934</traffic>
+      </usage>
+      <usage day="2013-10-03">
+        <traffic name="total" unit="bytes">3302550263</traffic>
+      </usage>
+      <usage day="2013-10-04">
+        <traffic name="total" unit="bytes">3286131597</traffic>
+      </usage>
+      <usage day="2013-10-05">
+        <traffic name="total" unit="bytes">2280131029</traffic>
+      </usage>
+      <usage day="2013-10-06">
+        <traffic name="total" unit="bytes">2796894095</traffic>
+      </usage>
+      <usage day="2013-10-07">
+        <traffic name="total" unit="bytes">685109179</traffic>
+      </usage>
+      <usage day="2013-10-08">
+        <traffic name="total" unit="bytes">1618142734</traffic>
+      </usage>
+      <usage day="2013-10-09">
+        <traffic name="total" unit="bytes">792847575</traffic>
+      </usage>
+      <usage day="2013-10-10">
+        <traffic name="total" unit="bytes">1469369721</traffic>
+      </usage>
+      <usage day="2013-10-11">
+        <traffic name="total" unit="bytes">3788495316</traffic>
+      </usage>
+      <usage day="2013-10-12">
+        <traffic name="total" unit="bytes">3398071519</traffic>
+      </usage>
+      <usage day="2013-10-13">
+        <traffic name="total" unit="bytes">6173582783</traffic>
+      </usage>
+      <usage day="2013-10-14">
+        <traffic name="total" unit="bytes">5762726822</traffic>
+      </usage>
+      <usage day="2013-10-15">
+        <traffic name="total" unit="bytes">2320797854</traffic>
+      </usage>
+      <usage day="2013-10-16">
+        <traffic name="total" unit="bytes">489485744</traffic>
+      </usage>
+      <usage day="2013-10-17">
+        <traffic name="total" unit="bytes">1182156204</traffic>
+      </usage>
+      <usage day="2013-10-18">
+        <traffic name="total" unit="bytes">4268393795</traffic>
+      </usage>
+      <usage day="2013-10-19">
+        <traffic name="total" unit="bytes">2435941993</traffic>
+      </usage>
+      <usage day="2013-10-20">
+        <traffic name="total" unit="bytes">4992162338</traffic>
+      </usage>
+      <usage day="2013-10-21">
+        <traffic name="total" unit="bytes">2866108215</traffic>
+      </usage>
+      <usage day="2013-10-22">
+        <traffic name="total" unit="bytes">6257360142</traffic>
+      </usage>
+      <usage day="2013-10-23">
+        <traffic name="total" unit="bytes">6720875242</traffic>
+      </usage>
+      <usage day="2013-10-24">
+        <traffic name="total" unit="bytes">6854760445</traffic>
+      </usage>
+      <usage day="2013-10-25">
+        <traffic name="total" unit="bytes">269229117</traffic>
+      </usage>
+      <usage day="2013-10-26">
+        <traffic name="total" unit="bytes">433985016</traffic>
+      </usage>
+      <usage day="2013-10-27">
+        <traffic name="total" unit="bytes">2887327844</traffic>
+      </usage>
+      <usage day="2013-10-28">
+        <traffic name="total" unit="bytes">3606850364</traffic>
+      </usage>
+      <usage day="2013-10-29">
+        <traffic name="total" unit="bytes">5963788886</traffic>
+      </usage>
+      <usage day="2013-10-30">
+        <traffic name="total" unit="bytes">4362906246</traffic>
+      </usage>
+      <usage day="2013-10-31">
+        <traffic name="total" unit="bytes">1852473526</traffic>
+      </usage>
+      <usage day="2013-11-01">
+        <traffic name="total" unit="bytes">573133563</traffic>
+      </usage>
+      <usage day="2013-11-02">
+        <traffic name="total" unit="bytes">255438324</traffic>
+      </usage>
+      <usage day="2013-11-03">
+        <traffic name="total" unit="bytes">4724050644</traffic>
+      </usage>
+      <usage day="2013-11-04">
+        <traffic name="total" unit="bytes">2682136433</traffic>
+      </usage>
+      <usage day="2013-11-05">
+        <traffic name="total" unit="bytes">1495526929</traffic>
+      </usage>
+      <usage day="2013-11-06">
+        <traffic name="total" unit="bytes">2007406660</traffic>
+      </usage>
+      <usage day="2013-11-07">
+        <traffic name="total" unit="bytes">1075708210</traffic>
+      </usage>
+      <usage day="2013-11-08">
+        <traffic name="total" unit="bytes">980766006</traffic>
+      </usage>
+      <usage day="2013-11-09">
+        <traffic name="total" unit="bytes">2949654137</traffic>
+      </usage>
+      <usage day="2013-11-10">
+        <traffic name="total" unit="bytes">5829266010</traffic>
+      </usage>
+      <usage day="2013-11-11">
+        <traffic name="total" unit="bytes">5172309476</traffic>
+      </usage>
+      <usage day="2013-11-12">
+        <traffic name="total" unit="bytes">4691770639</traffic>
+      </usage>
+      <usage day="2013-11-13">
+        <traffic name="total" unit="bytes">6030366846</traffic>
+      </usage>
+      <usage day="2013-11-14">
+        <traffic name="total" unit="bytes">5143925796</traffic>
+      </usage>
+      <usage day="2013-11-15">
+        <traffic name="total" unit="bytes">1305423686</traffic>
+      </usage>
+      <usage day="2013-11-16">
+        <traffic name="total" unit="bytes">1188794760</traffic>
+      </usage>
+      <usage day="2013-11-17">
+        <traffic name="total" unit="bytes">571575557</traffic>
+      </usage>
+      <usage day="2013-11-18">
+        <traffic name="total" unit="bytes">897005961</traffic>
+      </usage>
+      <usage day="2013-11-19">
+        <traffic name="total" unit="bytes">1010031973</traffic>
+      </usage>
+      <usage day="2013-11-20">
+        <traffic name="total" unit="bytes">203497431</traffic>
+      </usage>
+      <usage day="2013-11-21">
+        <traffic name="total" unit="bytes">1465532496</traffic>
+      </usage>
+      <usage day="2013-11-22">
+        <traffic name="total" unit="bytes">167293481</traffic>
+      </usage>
+      <usage day="2013-11-23">
+        <traffic name="total" unit="bytes">2852139931</traffic>
+      </usage>
+      <usage day="2013-11-24">
+        <traffic name="total" unit="bytes">571066280</traffic>
+      </usage>
+      <usage day="2013-11-25">
+        <traffic name="total" unit="bytes">224222640</traffic>
+      </usage>
+      <usage day="2013-11-26">
+        <traffic name="total" unit="bytes">718696543</traffic>
+      </usage>
+      <usage day="2013-11-27">
+        <traffic name="total" unit="bytes">1960026405</traffic>
+      </usage>
+      <usage day="2013-11-28">
+        <traffic name="total" unit="bytes">941082686</traffic>
+      </usage>
+      <usage day="2013-11-29">
+        <traffic name="total" unit="bytes">2423418888</traffic>
+      </usage>
+      <usage day="2013-11-30">
+        <traffic name="total" unit="bytes">6208922173</traffic>
+      </usage>
+      <usage day="2013-12-01">
+        <traffic name="total" unit="bytes">2614529977</traffic>
+      </usage>
+      <usage day="2013-12-02">
+        <traffic name="total" unit="bytes">531317247</traffic>
+      </usage>
+      <usage day="2013-12-03">
+        <traffic name="total" unit="bytes">2823646715</traffic>
+      </usage>
+      <usage day="2013-12-04">
+        <traffic name="total" unit="bytes">2944509084</traffic>
+      </usage>
+      <usage day="2013-12-05">
+        <traffic name="total" unit="bytes">615055149</traffic>
+      </usage>
+      <usage day="2013-12-06">
+        <traffic name="total" unit="bytes">520796439</traffic>
+      </usage>
+      <usage day="2013-12-07">
+        <traffic name="total" unit="bytes">3111265374</traffic>
+      </usage>
+      <usage day="2013-12-08">
+        <traffic name="total" unit="bytes">3112856177</traffic>
+      </usage>
+      <usage day="2013-12-09">
+        <traffic name="total" unit="bytes">839398914</traffic>
+      </usage>
+      <usage day="2013-12-10">
+        <traffic name="total" unit="bytes">599564034</traffic>
+      </usage>
+      <usage day="2013-12-11">
+        <traffic name="total" unit="bytes">255053934</traffic>
+      </usage>
+      <usage day="2013-12-12">
+        <traffic name="total" unit="bytes">2070276547</traffic>
+      </usage>
+      <usage day="2013-12-13">
+        <traffic name="total" unit="bytes">2800243399</traffic>
+      </usage>
+      <usage day="2013-12-14">
+        <traffic name="total" unit="bytes">2690858978</traffic>
+      </usage>
+      <usage day="2013-12-15">
+        <traffic name="total" unit="bytes">550287606</traffic>
+      </usage>
+      <usage day="2013-12-16">
+        <traffic name="total" unit="bytes">420214515</traffic>
+      </usage>
+      <usage day="2013-12-17">
+        <traffic name="total" unit="bytes">275553778</traffic>
+      </usage>
+      <usage day="2013-12-18">
+        <traffic name="total" unit="bytes">2131413539</traffic>
+      </usage>
+      <usage day="2013-12-19">
+        <traffic name="total" unit="bytes">190389503</traffic>
+      </usage>
+      <usage day="2013-12-20">
+        <traffic name="total" unit="bytes">553935182</traffic>
+      </usage>
+      <usage day="2013-12-21">
+        <traffic name="total" unit="bytes">777032855</traffic>
+      </usage>
+      <usage day="2013-12-22">
+        <traffic name="total" unit="bytes">4964867347</traffic>
+      </usage>
+      <usage day="2013-12-23">
+        <traffic name="total" unit="bytes">2575736397</traffic>
+      </usage>
+      <usage day="2013-12-24">
+        <traffic name="total" unit="bytes">3924409441</traffic>
+      </usage>
+      <usage day="2013-12-25">
+        <traffic name="total" unit="bytes">605391772</traffic>
+      </usage>
+      <usage day="2013-12-26">
+        <traffic name="total" unit="bytes">6636448317</traffic>
+      </usage>
+      <usage day="2013-12-27">
+        <traffic name="total" unit="bytes">302645631</traffic>
+      </usage>
+      <usage day="2013-12-28">
+        <traffic name="total" unit="bytes">3356403979</traffic>
+      </usage>
+      <usage day="2013-12-29">
+        <traffic name="total" unit="bytes">1487678122</traffic>
+      </usage>
+      <usage day="2013-12-30">
+        <traffic name="total" unit="bytes">2002328662</traffic>
+      </usage>
+      <usage day="2013-12-31">
+        <traffic name="total" unit="bytes">933039296</traffic>
+      </usage>
+      <usage day="2014-01-01">
+        <traffic name="total" unit="bytes">334779164</traffic>
+      </usage>
+      <usage day="2014-01-02">
+        <traffic name="total" unit="bytes">350334646</traffic>
+      </usage>
+      <usage day="2014-01-03">
+        <traffic name="total" unit="bytes">317572250</traffic>
+      </usage>
+      <usage day="2014-01-04">
+        <traffic name="total" unit="bytes">350445988</traffic>
+      </usage>
+      <usage day="2014-01-05">
+        <traffic name="total" unit="bytes">782478536</traffic>
+      </usage>
+      <usage day="2014-01-06">
+        <traffic name="total" unit="bytes">290106831</traffic>
+      </usage>
+      <usage day="2014-01-07">
+        <traffic name="total" unit="bytes">897166249</traffic>
+      </usage>
+      <usage day="2014-01-08">
+        <traffic name="total" unit="bytes">282190196</traffic>
+      </usage>
+      <usage day="2014-01-09">
+        <traffic name="total" unit="bytes">529279435</traffic>
+      </usage>
+      <usage day="2014-01-10">
+        <traffic name="total" unit="bytes">47563123</traffic>
+      </usage>
+      <usage day="2014-01-11">
+        <traffic name="total" unit="bytes">568044116</traffic>
+      </usage>
+      <usage day="2014-01-12">
+        <traffic name="total" unit="bytes">593837875</traffic>
+      </usage>
+      <usage day="2014-01-13">
+        <traffic name="total" unit="bytes">2039013408</traffic>
+      </usage>
+      <usage day="2014-01-14">
+        <traffic name="total" unit="bytes">3834458839</traffic>
+      </usage>
+      <usage day="2014-01-15">
+        <traffic name="total" unit="bytes">341878540</traffic>
+      </usage>
+      <usage day="2014-01-16">
+        <traffic name="total" unit="bytes">465111831</traffic>
+      </usage>
+      <usage day="2014-01-17">
+        <traffic name="total" unit="bytes">336703654</traffic>
+      </usage>
+      <usage day="2014-01-18">
+        <traffic name="total" unit="bytes">2094923002</traffic>
+      </usage>
+      <usage day="2014-01-19">
+        <traffic name="total" unit="bytes">839401098</traffic>
+      </usage>
+      <usage day="2014-01-20">
+        <traffic name="total" unit="bytes">449057641</traffic>
+      </usage>
+      <usage day="2014-01-21">
+        <traffic name="total" unit="bytes">1622871379</traffic>
+      </usage>
+      <usage day="2014-01-22">
+        <traffic name="total" unit="bytes">1114705331</traffic>
+      </usage>
+      <usage day="2014-01-23">
+        <traffic name="total" unit="bytes">706521062</traffic>
+      </usage>
+      <usage day="2014-01-24">
+        <traffic name="total" unit="bytes">224255093</traffic>
+      </usage>
+      <usage day="2014-01-25">
+        <traffic name="total" unit="bytes">1723014722</traffic>
+      </usage>
+      <usage day="2014-01-26">
+        <traffic name="total" unit="bytes">11133442787</traffic>
+      </usage>
+      <usage day="2014-01-27">
+        <traffic name="total" unit="bytes">3955966476</traffic>
+      </usage>
+      <usage day="2014-01-28">
+        <traffic name="total" unit="bytes">678365201</traffic>
+      </usage>
+      <usage day="2014-01-29">
+        <traffic name="total" unit="bytes">6323924570</traffic>
+      </usage>
+      <usage day="2014-01-30">
+        <traffic name="total" unit="bytes">4788978942</traffic>
+      </usage>
+      <usage day="2014-01-31">
+        <traffic name="total" unit="bytes">541050757</traffic>
+      </usage>
+      <usage day="2014-02-01">
+        <traffic name="total" unit="bytes">4817955028</traffic>
+      </usage>
+      <usage day="2014-02-02">
+        <traffic name="total" unit="bytes">2157895129</traffic>
+      </usage>
+      <usage day="2014-02-03">
+        <traffic name="total" unit="bytes">741180217</traffic>
+      </usage>
+      <usage day="2014-02-04">
+        <traffic name="total" unit="bytes">4618304190</traffic>
+      </usage>
+      <usage day="2014-02-05">
+        <traffic name="total" unit="bytes">2210638099</traffic>
+      </usage>
+      <usage day="2014-02-06">
+        <traffic name="total" unit="bytes">1219477419</traffic>
+      </usage>
+      <usage day="2014-02-07">
+        <traffic name="total" unit="bytes">1130582803</traffic>
+      </usage>
+      <usage day="2014-02-08">
+        <traffic name="total" unit="bytes">1909262218</traffic>
+      </usage>
+      <usage day="2014-02-09">
+        <traffic name="total" unit="bytes">5214661965</traffic>
+      </usage>
+      <usage day="2014-02-10">
+        <traffic name="total" unit="bytes">1698254805</traffic>
+      </usage>
+      <usage day="2014-02-11">
+        <traffic name="total" unit="bytes">1967853275</traffic>
+      </usage>
+      <usage day="2014-02-12">
+        <traffic name="total" unit="bytes">2220417366</traffic>
+      </usage>
+      <usage day="2014-02-13">
+        <traffic name="total" unit="bytes">1188692740</traffic>
+      </usage>
+      <usage day="2014-02-14">
+        <traffic name="total" unit="bytes">372442518</traffic>
+      </usage>
+      <usage day="2014-02-15">
+        <traffic name="total" unit="bytes">1487541963</traffic>
+      </usage>
+      <usage day="2014-02-16">
+        <traffic name="total" unit="bytes">690838377</traffic>
+      </usage>
+      <usage day="2014-02-17">
+        <traffic name="total" unit="bytes">2322867034</traffic>
+      </usage>
+      <usage day="2014-02-18">
+        <traffic name="total" unit="bytes">1581252109</traffic>
+      </usage>
+      <usage day="2014-02-19">
+        <traffic name="total" unit="bytes">3380450303</traffic>
+      </usage>
+      <usage day="2014-02-20">
+        <traffic name="total" unit="bytes">733841656</traffic>
+      </usage>
+      <usage day="2014-02-21">
+        <traffic name="total" unit="bytes">2081724267</traffic>
+      </usage>
+      <usage day="2014-02-22">
+        <traffic name="total" unit="bytes">303666103</traffic>
+      </usage>
+      <usage day="2014-02-23">
+        <traffic name="total" unit="bytes">892663395</traffic>
+      </usage>
+      <usage day="2014-02-24">
+        <traffic name="total" unit="bytes">986390205</traffic>
+      </usage>
+      <usage day="2014-02-25">
+        <traffic name="total" unit="bytes">565366524</traffic>
+      </usage>
+      <usage day="2014-02-26">
+        <traffic name="total" unit="bytes">1768986327</traffic>
+      </usage>
+      <usage day="2014-02-27">
+        <traffic name="total" unit="bytes">1265421076</traffic>
+      </usage>
+      <usage day="2014-02-28">
+        <traffic name="total" unit="bytes">2087647378</traffic>
+      </usage>
+      <usage day="2014-03-01">
+        <traffic name="total" unit="bytes">2483256160</traffic>
+      </usage>
+      <usage day="2014-03-02">
+        <traffic name="total" unit="bytes">1119347970</traffic>
+      </usage>
+      <usage day="2014-03-03">
+        <traffic name="total" unit="bytes">470079122</traffic>
+      </usage>
+      <usage day="2014-03-04">
+        <traffic name="total" unit="bytes">1101245594</traffic>
+      </usage>
+      <usage day="2014-03-05">
+        <traffic name="total" unit="bytes">1047523513</traffic>
+      </usage>
+      <usage day="2014-03-06">
+        <traffic name="total" unit="bytes">1683730598</traffic>
+      </usage>
+      <usage day="2014-03-07">
+        <traffic name="total" unit="bytes">808803469</traffic>
+      </usage>
+      <usage day="2014-03-08">
+        <traffic name="total" unit="bytes">1002961132</traffic>
+      </usage>
+      <usage day="2014-03-09">
+        <traffic name="total" unit="bytes">632389979</traffic>
+      </usage>
+      <usage day="2014-03-10">
+        <traffic name="total" unit="bytes">3458549092</traffic>
+      </usage>
+      <usage day="2014-03-11">
+        <traffic name="total" unit="bytes">1590906599</traffic>
+      </usage>
+      <usage day="2014-03-12">
+        <traffic name="total" unit="bytes">1518383800</traffic>
+      </usage>
+      <usage day="2014-03-13">
+        <traffic name="total" unit="bytes">2330604205</traffic>
+      </usage>
+      <usage day="2014-03-14">
+        <traffic name="total" unit="bytes">2207134602</traffic>
+      </usage>
+      <usage day="2014-03-15">
+        <traffic name="total" unit="bytes">1378109885</traffic>
+      </usage>
+      <usage day="2014-03-16">
+        <traffic name="total" unit="bytes">2641563837</traffic>
+      </usage>
+      <usage day="2014-03-17">
+        <traffic name="total" unit="bytes">581957945</traffic>
+      </usage>
+      <usage day="2014-03-18">
+        <traffic name="total" unit="bytes">774687106</traffic>
+      </usage>
+      <usage day="2014-03-19">
+        <traffic name="total" unit="bytes">2335085050</traffic>
+      </usage>
+      <usage day="2014-03-20">
+        <traffic name="total" unit="bytes">6144581199</traffic>
+      </usage>
+      <usage day="2014-03-21">
+        <traffic name="total" unit="bytes">379800825</traffic>
+      </usage>
+      <usage day="2014-03-22">
+        <traffic name="total" unit="bytes">827687643</traffic>
+      </usage>
+      <usage day="2014-03-23">
+        <traffic name="total" unit="bytes">2200092435</traffic>
+      </usage>
+      <usage day="2014-03-24">
+        <traffic name="total" unit="bytes">142771736</traffic>
+      </usage>
+      <usage day="2014-03-25">
+        <traffic name="total" unit="bytes">3040042576</traffic>
+      </usage>
+      <usage day="2014-03-26">
+        <traffic name="total" unit="bytes">1198740248</traffic>
+      </usage>
+      <usage day="2014-03-27">
+        <traffic name="total" unit="bytes">3998056748</traffic>
+      </usage>
+      <usage day="2014-03-28">
+        <traffic name="total" unit="bytes">1499133650</traffic>
+      </usage>
+      <usage day="2014-03-29">
+        <traffic name="total" unit="bytes">234632667</traffic>
+      </usage>
+      <usage day="2014-03-30">
+        <traffic name="total" unit="bytes">1066653710</traffic>
+      </usage>
+      <usage day="2014-03-31">
+        <traffic name="total" unit="bytes">2357919211</traffic>
+      </usage>
+      <usage day="2014-04-01">
+        <traffic name="total" unit="bytes">1239286386</traffic>
+      </usage>
+      <usage day="2014-04-02">
+        <traffic name="total" unit="bytes">1939701735</traffic>
+      </usage>
+      <usage day="2014-04-03">
+        <traffic name="total" unit="bytes">1799238952</traffic>
+      </usage>
+      <usage day="2014-04-04">
+        <traffic name="total" unit="bytes">1076133650</traffic>
+      </usage>
+      <usage day="2014-04-05">
+        <traffic name="total" unit="bytes">2613905358</traffic>
+      </usage>
+      <usage day="2014-04-06">
+        <traffic name="total" unit="bytes">3722042529</traffic>
+      </usage>
+      <usage day="2014-04-07">
+        <traffic name="total" unit="bytes">594455895</traffic>
+      </usage>
+      <usage day="2014-04-08">
+        <traffic name="total" unit="bytes">749079701</traffic>
+      </usage>
+      <usage day="2014-04-09">
+        <traffic name="total" unit="bytes">1010556083</traffic>
+      </usage>
+      <usage day="2014-04-10">
+        <traffic name="total" unit="bytes">2318785446</traffic>
+      </usage>
+      <usage day="2014-04-11">
+        <traffic name="total" unit="bytes">3419956789</traffic>
+      </usage>
+      <usage day="2014-04-12">
+        <traffic name="total" unit="bytes">1931067125</traffic>
+      </usage>
+      <usage day="2014-04-13">
+        <traffic name="total" unit="bytes">3016734922</traffic>
+      </usage>
+      <usage day="2014-04-14">
+        <traffic name="total" unit="bytes">297904876</traffic>
+      </usage>
+      <usage day="2014-04-15">
+        <traffic name="total" unit="bytes">2915415708</traffic>
+      </usage>
+      <usage day="2014-04-16">
+        <traffic name="total" unit="bytes">422980010</traffic>
+      </usage>
+      <usage day="2014-04-17">
+        <traffic name="total" unit="bytes">1630453538</traffic>
+      </usage>
+      <usage day="2014-04-18">
+        <traffic name="total" unit="bytes">4548291338</traffic>
+      </usage>
+      <usage day="2014-04-19">
+        <traffic name="total" unit="bytes">1925483575</traffic>
+      </usage>
+      <usage day="2014-04-20">
+        <traffic name="total" unit="bytes">2808210162</traffic>
+      </usage>
+      <usage day="2014-04-21">
+        <traffic name="total" unit="bytes">5133172919</traffic>
+      </usage>
+      <usage day="2014-04-22">
+        <traffic name="total" unit="bytes">1531287387</traffic>
+      </usage>
+      <usage day="2014-04-23">
+        <traffic name="total" unit="bytes">1809978548</traffic>
+      </usage>
+      <usage day="2014-04-24">
+        <traffic name="total" unit="bytes">2471163983</traffic>
+      </usage>
+      <usage day="2014-04-25">
+        <traffic name="total" unit="bytes">2677030257</traffic>
+      </usage>
+      <usage day="2014-04-26">
+        <traffic name="total" unit="bytes">1953423419</traffic>
+      </usage>
+      <usage day="2014-04-27">
+        <traffic name="total" unit="bytes">3426275056</traffic>
+      </usage>
+      <usage day="2014-04-28">
+        <traffic name="total" unit="bytes">2548853326</traffic>
+      </usage>
+      <usage day="2014-04-29">
+        <traffic name="total" unit="bytes">694152451</traffic>
+      </usage>
+      <usage day="2014-04-30">
+        <traffic name="total" unit="bytes">2156270617</traffic>
+      </usage>
+      <usage day="2014-05-01">
+        <traffic name="total" unit="bytes">2290930711</traffic>
+      </usage>
+      <usage day="2014-05-02">
+        <traffic name="total" unit="bytes">768249978</traffic>
+      </usage>
+      <usage day="2014-05-03">
+        <traffic name="total" unit="bytes">795430381</traffic>
+      </usage>
+      <usage day="2014-05-04">
+        <traffic name="total" unit="bytes">729896955</traffic>
+      </usage>
+      <usage day="2014-05-05">
+        <traffic name="total" unit="bytes">923413269</traffic>
+      </usage>
+      <usage day="2014-05-06">
+        <traffic name="total" unit="bytes">2552343922</traffic>
+      </usage>
+      <usage day="2014-05-07">
+        <traffic name="total" unit="bytes">659729807</traffic>
+      </usage>
+      <usage day="2014-05-08">
+        <traffic name="total" unit="bytes">2016315243</traffic>
+      </usage>
+      <usage day="2014-05-09">
+        <traffic name="total" unit="bytes">666023223</traffic>
+      </usage>
+      <usage day="2014-05-10">
+        <traffic name="total" unit="bytes">240461249</traffic>
+      </usage>
+      <usage day="2014-05-11">
+        <traffic name="total" unit="bytes">3344399983</traffic>
+      </usage>
+      <usage day="2014-05-12">
+        <traffic name="total" unit="bytes">1216526233</traffic>
+      </usage>
+      <usage day="2014-05-13">
+        <traffic name="total" unit="bytes">2933171264</traffic>
+      </usage>
+      <usage day="2014-05-14">
+        <traffic name="total" unit="bytes">455742684</traffic>
+      </usage>
+      <usage day="2014-05-15">
+        <traffic name="total" unit="bytes">3048231740</traffic>
+      </usage>
+      <usage day="2014-05-16">
+        <traffic name="total" unit="bytes">1144371444</traffic>
+      </usage>
+      <usage day="2014-05-17">
+        <traffic name="total" unit="bytes">827216133</traffic>
+      </usage>
+      <usage day="2014-05-18">
+        <traffic name="total" unit="bytes">882020558</traffic>
+      </usage>
+      <usage day="2014-05-19">
+        <traffic name="total" unit="bytes">1223766687</traffic>
+      </usage>
+      <usage day="2014-05-20">
+        <traffic name="total" unit="bytes">2818813571</traffic>
+      </usage>
+      <usage day="2014-05-21">
+        <traffic name="total" unit="bytes">1190422895</traffic>
+      </usage>
+      <usage day="2014-05-22">
+        <traffic name="total" unit="bytes">2818251622</traffic>
+      </usage>
+      <usage day="2014-05-23">
+        <traffic name="total" unit="bytes">887749128</traffic>
+      </usage>
+      <usage day="2014-05-24">
+        <traffic name="total" unit="bytes">2752976464</traffic>
+      </usage>
+      <usage day="2014-05-25">
+        <traffic name="total" unit="bytes">4727577675</traffic>
+      </usage>
+      <usage day="2014-05-26">
+        <traffic name="total" unit="bytes">1910143657</traffic>
+      </usage>
+      <usage day="2014-05-27">
+        <traffic name="total" unit="bytes">2246472438</traffic>
+      </usage>
+      <usage day="2014-05-28">
+        <traffic name="total" unit="bytes">2674388107</traffic>
+      </usage>
+      <usage day="2014-05-29">
+        <traffic name="total" unit="bytes">1970225857</traffic>
+      </usage>
+      <usage day="2014-05-30">
+        <traffic name="total" unit="bytes">1538241296</traffic>
+      </usage>
+      <usage day="2014-05-31">
+        <traffic name="total" unit="bytes">2469836232</traffic>
+      </usage>
+      <usage day="2014-06-01">
+        <traffic name="total" unit="bytes">2084109821</traffic>
+      </usage>
+      <usage day="2014-06-02">
+        <traffic name="total" unit="bytes">2495229269</traffic>
+      </usage>
+      <usage day="2014-06-03">
+        <traffic name="total" unit="bytes">2861172248</traffic>
+      </usage>
+      <usage day="2014-06-04">
+        <traffic name="total" unit="bytes">123668604</traffic>
+      </usage>
+      <usage day="2014-06-05">
+        <traffic name="total" unit="bytes">772324879</traffic>
+      </usage>
+      <usage day="2014-06-06">
+        <traffic name="total" unit="bytes">1156490199</traffic>
+      </usage>
+      <usage day="2014-06-07">
+        <traffic name="total" unit="bytes">3269113944</traffic>
+      </usage>
+      <usage day="2014-06-08">
+        <traffic name="total" unit="bytes">1395770179</traffic>
+      </usage>
+      <usage day="2014-06-09">
+        <traffic name="total" unit="bytes">6753023229</traffic>
+      </usage>
+      <usage day="2014-06-10">
+        <traffic name="total" unit="bytes">821670171</traffic>
+      </usage>
+      <usage day="2014-06-11">
+        <traffic name="total" unit="bytes">2078886196</traffic>
+      </usage>
+      <usage day="2014-06-12">
+        <traffic name="total" unit="bytes">961136196</traffic>
+      </usage>
+      <usage day="2014-06-13">
+        <traffic name="total" unit="bytes">1096165206</traffic>
+      </usage>
+      <usage day="2014-06-14">
+        <traffic name="total" unit="bytes">2790114331</traffic>
+      </usage>
+      <usage day="2014-06-15">
+        <traffic name="total" unit="bytes">2194060559</traffic>
+      </usage>
+      <usage day="2014-06-16">
+        <traffic name="total" unit="bytes">3285601880</traffic>
+      </usage>
+      <usage day="2014-06-17">
+        <traffic name="total" unit="bytes">1244677979</traffic>
+      </usage>
+      <usage day="2014-06-18">
+        <traffic name="total" unit="bytes">2504566099</traffic>
+      </usage>
+      <usage day="2014-06-19">
+        <traffic name="total" unit="bytes">2255253518</traffic>
+      </usage>
+      <usage day="2014-06-20">
+        <traffic name="total" unit="bytes">103157530</traffic>
+      </usage>
+      <usage day="2014-06-21">
+        <traffic name="total" unit="bytes">289709789</traffic>
+      </usage>
+      <usage day="2014-06-22">
+        <traffic name="total" unit="bytes">1230639807</traffic>
+      </usage>
+      <usage day="2014-06-23">
+        <traffic name="total" unit="bytes">842497369</traffic>
+      </usage>
+      <usage day="2014-06-24">
+        <traffic name="total" unit="bytes">2279295652</traffic>
+      </usage>
+      <usage day="2014-06-25">
+        <traffic name="total" unit="bytes">662403124</traffic>
+      </usage>
+      <usage day="2014-06-26">
+        <traffic name="total" unit="bytes">3336173890</traffic>
+      </usage>
+      <usage day="2014-06-27">
+        <traffic name="total" unit="bytes">2883129285</traffic>
+      </usage>
+      <usage day="2014-06-28">
+        <traffic name="total" unit="bytes">1586147868</traffic>
+      </usage>
+      <usage day="2014-06-29">
+        <traffic name="total" unit="bytes">1221038390</traffic>
+      </usage>
+      <usage day="2014-06-30">
+        <traffic name="total" unit="bytes">1597648937</traffic>
+      </usage>
+      <usage day="2014-07-01">
+        <traffic name="total" unit="bytes">1447979349</traffic>
+      </usage>
+      <usage day="2014-07-02">
+        <traffic name="total" unit="bytes">2126040101</traffic>
+      </usage>
+      <usage day="2014-07-03">
+        <traffic name="total" unit="bytes">1019957274</traffic>
+      </usage>
+      <usage day="2014-07-04">
+        <traffic name="total" unit="bytes">2402757010</traffic>
+      </usage>
+      <usage day="2014-07-05">
+        <traffic name="total" unit="bytes">1087032977</traffic>
+      </usage>
+      <usage day="2014-07-06">
+        <traffic name="total" unit="bytes">3010958611</traffic>
+      </usage>
+      <usage day="2014-07-07">
+        <traffic name="total" unit="bytes">2086473173</traffic>
+      </usage>
+      <usage day="2014-07-08">
+        <traffic name="total" unit="bytes">3616506457</traffic>
+      </usage>
+      <usage day="2014-07-09">
+        <traffic name="total" unit="bytes">472691219</traffic>
+      </usage>
+    </usagelist>
+  </api>
+</internode>

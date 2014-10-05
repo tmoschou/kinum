@@ -1,34 +1,35 @@
-Kinum
-=====
+Kinum - The KDE Internet Usage Meter
 
-The KDE Internet Usage Meter
+DETAILS
+=======
 
-Intially intended as the KDE Internode Usage meter, Kinum will
-serve as a pluggable popup applet that can support multiple
+Initially intended as the KDE Internode Usage meter, Kinum will
+serve as a pluggable popup applet/plasmoid that can support multiple
 backends for different internet service provides (for example 
 Internode, iiNet, etc.)
 
-
-Authors
+AUTHORS
 =======
 
 Terry Moschou <tmoschou@gmail.com>
 
-Build Instructions
+BUILD INSTRUCTIONS
 ==================
 
-cd /where/your/applet/is/installed
+git clone https://github.com/tmoschou/kinum.git
+cd kinum
 mkdir build
 cd build
-cmake -DCMAKE_INSTALL_PREFIX=$KDEDIRS .. 
+cmake -DCMAKE_INSTALL_PREFIX="$(kde4-config --prefix)" ..
+(or
+cmake -DCMAKE_INSTALL_PREFIX=~/.kde ..
+)
 make 
 make install
 
-(your $KDEDIRS is where you install your KDE 4)
-
 Restart plasma to load the applet 
-kquitapp plasma
-plasma
+kquitapp plasma-desktop
+plasma-desktop
 
 or view it with 
 plasmoidviewer YourAppletName
@@ -36,18 +37,22 @@ plasmoidviewer YourAppletName
 You might need to run kbuildsycoca4
 in order to get the .desktop file recognized.
 
+If you wish to configure make with a different installation prefix, 
+for example the default /usr/local, you may need to adjust the
+environment variables
+  QT_PLUGIN_PATHS
+  KDEDIRS
 
-Licence
+LICENCE
 =======
 
-Kinum is Copyright (C) 2012 by Terry Moschou <tmoschou@gmail.com>
+KDE Internet Usage Meter
+Copyright (C) 2013  Terry Moschou <tmoschou@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
+the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
-
-See the file LICENCE for details.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -55,4 +60,39 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+DEVELOPERS
+==========
+
+Notes regarding viewing ui in QtCreator:
+ Ensure import path in kinum.qmlproject is correct
+ Run 
+    qmlplugindump org.kde.plasma.core 0.1 /usr/lib64/kde4/imports > \
+      /usr/lib64/kde4/imports/org/kde/plasma/core/plugins.qmltypes
+      
+    and the same fore each other package
+
+Porting to Plasma 2:
+ use helper tool
+ plasma-framework/src/tools/port-plasma2.sh
+ plasma-framework/src/tools/port-*.sh
+
+ https://community.kde.org/Frameworks/Porting_Notes
+ https://community.kde.org/Plasma/PortingTolibplasma2
+ 
+DataEngine 
+ run plasmaengineexplorer
+
+BACKENDS
+========
+
+* Internode
+
+Please note that Internode have requested that I do not include their API
+Document. If you wish to create your own usage meter or support this one, do
+not copy the interface from this progam, please contact Internode via
+http://www.internode.on.net/contact/support for the API document. Internode 
+would like you to contact them directly so that they can record your details
+and provide you with updates in the future if necessary.
+

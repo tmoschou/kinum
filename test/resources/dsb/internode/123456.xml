@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internode>
+  <api>
+    <service type="Personal_ADSL">123456</service>
+    <resources count="3">
+      <resource type="history" href="/api/v1.5/123456/history">history</resource>
+      <resource type="usage" href="/api/v1.5/123456/usage">usage</resource>
+      <resource type="service" href="/api/v1.5/123456/service">service</resource>
+    </resources>
+  </api>
+</internode>
